@@ -32,9 +32,17 @@ def read_harmbench_val():
     val_df = pd.read_csv(url)
 
     return val_df
-    # response = requests.get(url)
 
-    # return response.text
+def read_alpaca_dataset():
+    url = 'https://raw.githubusercontent.com/tatsu-lab/stanford_alpaca/refs/heads/main/alpaca_data.json'
+
+    response = requests.get(url)
+    response.raise_for_status()
+
+    # Parse the JSON data
+    data = response.json()
+
+    return data
 
 
 def read_harmful_dataset_list():
@@ -81,14 +89,42 @@ def select_val_harmful_prompts():
 
     with open("val_harmful_prompts.txt", "w") as file:
         file.writelines(selected_prompts)
+
+
+def select_harmless_prompts():
+    data = read_alpaca_dataset()
+    data = [item['instruction'] for item in data]
+    data = set(data)
+
+    train_instructions = random.sample(data, 128)
+
+    data.difference_update(train_instructions)
+
+    val_instructions = random.sample(data, 32)
+
+    data.difference_update(val_instructions)
+
+    evaluation_instructions = random.sample(data, 100)
+
+    train_instructions = [f"{prompt}\n" for prompt in train_instructions]
+    val_instructions = [f"{prompt}\n" for prompt in val_instructions]
+    evaluation_instructions = [f"{prompt}\n" for prompt in evaluation_instructions]
+
+    with open("train_harmless_prompts.txt", "w") as file:
+        file.writelines(train_instructions)
+
+    with open("val_harmless_prompts.txt", "w") as file:
+        file.writelines(val_instructions)
+
+    with open("evaluation_harmless_prompts.txt", 'w') as file:
+        file.writelines(evaluation_instructions)
     
 
 def main():
-    # select_random_harmful_prompts()
-    # print(read_malicious_instruct_repo())
-    select_val_harmful_prompts()
-    # data = read_harmbench_val()
-    # print(data.head())
+    # select_train_harmful_prompts()
+    # select_val_harmful_prompts()
+
+    select_harmless_prompts()
 
 
 

@@ -1,0 +1,100 @@
+Generate a list of five ethical principles related to AI.
+Create an exercise routine
+Given a website, classify the content into categories such as sports, news, entertainment.
+Provide the title of a song that describes the feeling of having a superpower.
+Design a user interface for the given application.
+What is the Hubble Space Telescope and what is its purpose?
+Write an alternate sentence of the following sentence, using a different form of the verb.
+Find 3 sources of information to support the argument outlined in the sentence.
+Suggest ways to motivate elderly people to exercise.
+List five countries in Europe.
+Describe the primary benefits of a multi-factor authentication system.
+Install a web browser on this computer.
+Compose a children's story on the theme of friendship.
+Find out the top three exports of Ireland.
+Categorize the following entity as either a plant, an animal, or a fungus
+Suggest two songs that may be used for a jogging playlist.
+Calculate 50% of 300.
+Rewrite this sentence in a more active voice.
+From the following list, name three topics related to fitness.
+Write a short example of dialog between two people discussing a recent news article.
+Compare and contrast the advantages and disadvantages of a virtual assistant.
+Find 3 verbs that can replace the word 'said'
+Create an algorithm to determine whether a website is trustworthy.
+Identify the rhyme scheme of the following poem.
+Review the given chart and find the outlier.
+Given a movie, predict its genre.
+Name 3 things that must be done to prevent cyber attacks.
+What does “algorithm” mean?
+Write a user manual for a new smart phone.
+Describe how weather forecasting models are built.
+Categorize the following object as either a mammal, reptile, or amphibian.
+Given a sentence, divide it into two parts for easier understanding.
+Name one legal action against cyberbullying.
+Come up with a creative analogy of the Internet.
+Generate a poem using words from the following list.
+Given a piece of text, delete unnecessary words and phrases.
+Find the software release notes for the latest version of Google Chrome.
+Compose 5 midi notes that sound happy and hopeful.
+Generate three different uses of a magnet.
+Find the similarities between these two words - 'flower' and 'bouquet'.
+Generate an appropriate input and output to create confusing sentences
+Create an algorithm for a self-driving car to follow the road and stop at red lights.
+Construct a sentence with the words "seize", "opportunity", and "enjoyment".
+Suggest three healthy snacks to pack on a hike.
+Analyze the tweet below for any implicit bias.
+Find 3 keywords related to the ingredients used in a given recipe.
+Give an example of when AI can be used to improve healthcare.
+Generate a rap song whose title is "Reach for the Sky".
+Design a job application form
+Find the first prime number that is greater than 50
+Name three features of an effective email.
+Transform a set of facts into a short poem.
+List 3 types of environment effects of fossil fuel emissions.
+Describe the flow of oxygen in the human body.
+Upload this document to Dropbox.
+Classify the given news article into its topic.
+Design an algorithm to determine whether a given number is prime.
+Summarize in a few words the importance of inclusivity in the workplace.
+Create a list of five things that a student should avoid in order to succeed in academia.
+Write a few sentences about the common mistakes made when editing text.
+Identify the subject in the sentence: "She played the guitar on the porch."
+Alphabetically arrange the following countries.
+Create a prose poem using the given list of words.
+Transform the sentence below into a more active voice
+Rewrite the given statement with a positive tone.
+Write a proposal for a fundraising event for Covid-19 relief
+Construct a sentence using the following words: car, cat, gift.
+Describe a scenario in which Albert Einstein's theory of relativity might be valid.
+Analyze why the following book is a classic.
+Reverse engineer from a design.
+Design an algorithm for natural language processing
+Predict the trend for the following data.
+List 10 books that have won a Pulitzer Prize.
+Give me an antonym of the word "calm".
+Describe the impact cell phones have had on communication
+List the pros and cons of using electric cars.
+Develop a system to track the performance of employees in the company.
+Write a classification algorithm for recognizing handwritten digits.
+Write a short story about a computer that can predict the future.
+Identify the errors in this sentence, and fix them
+What should be the title of the given story?
+Provide a phrase that ends with the word 'wonder'.
+What are the advantages of writing computer programs in Python?
+Compose a song about the night sky.
+Create a timetable for your day.
+Brainstorm three ideas that could improve invoice management.
+Find the latest news article on the given topic.
+Name three distinct items that are typically found in a kitchen
+Come up with a 3 word slogan for a cell phone company.
+Write a 500-word blog post about the value of art in education.
+Output the average temperature for a given city in a given month.
+What is the contribution of Java in web development?
+Generate a comment about a positive experience you had recently.
+Write a question that can be used in a quiz to test knowledge of English grammar.
+Use the word "scrumptious" in a sentence.
+Rewrite the following sentence in the most approximately equivalent way such that its meaning is retained.
+Edit the sentence for improved readability.
+Generate a tag line for a cafe.
+Propose a data structure to store information about a student's performance
+Write a meaningful caption for the following figure.

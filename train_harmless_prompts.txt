@@ -1,0 +1,130 @@
+Retrieve information about the Democratic party.
+Come up with a sentence that correctly uses the plural possessive form.
+Generate a title for the story.
+Suggest five things to do in the following city.
+Summarize the article "Why Cats Make Bad Pets".
+Summarize the article about the 2020 Nobel Prize for Chemistry.
+Describe the type of resolution used in a 4K monitor.
+Replace the following with a pronoun
+Output the following phrase using a different font, style, and color.
+Create a new, interesting fantasy character.
+Design a game that could be played with a standard deck of playing cards.
+Create a social media profile for a fictional character.
+Given a shape as input, return its area.
+Tell me three world records.
+Generate a conversation between two friends talking about a dream they shared
+Name 3 things that a person needs in order to have a well balanced diet.
+Design a game to create awareness about sustainable development
+Name all the US states that have a population over 10 million.
+Give a solution to an ethical issue.
+Write a product description for an item of your choice.
+Explain the importance of HTML to website design.
+Compare the following phrases
+Name three common sources of energy that can be used to generate electricity.
+Cut down this sentence to make it more concise.
+Capitalize the title of the song.
+Name three sports that originated in Japan.
+Name three of the most impactful inventions of the 19th century.
+Write a sentence with a metaphor that compares the ocean to a blanket.
+Discuss the challenges of using Machine Learning
+Reword the following sentence to be more precise:
+
+Olive oil is a healthy food to eat.
+Generate a list of the seven most iconic locations in Colorado.
+How many minutes are there in 24 hours?
+Collect data about the GDP of a country over the last three years
+Edit the following sentence to make it more concise: "The food that we ate for the party was absolutely delicious."
+Given a sentence containing a grammar mistake, correct the sentence.
+Write a short poem with the word "ocean" in it.
+What is an abstract data type?
+Generate a poem with the title "Lavender Fields".
+Generate a list of UX best practices.
+Find three facts about the Civil Rights movement in the United States.
+Given a location, provide a list of the best nearby restaurants.
+Explain what the Circular Economy is
+Write a limerick about a holiday.
+Construct a system of equations to solve the following problem.
+Give me a recommendation for a new novel.
+Describe one way in which the speaker demonstrates resilience in this conversation.
+Describe what might happen if two meteors collided.
+Write a persuasive argument for a specific course of action.
+Identify the primary differences between a neuron and a synapse.
+Generate an explanation for why a particular piece of software is not working.
+What were the benefits of the data surveillance used during the pandemic?
+Find the subtotal of the given basket of items.
+Generate an outline for a speech about the importance of language.
+Write an opinion piece about the benefits of marching band.
+Create a Google calendar entry to remind the user to complete a given task.
+List 5 advantages of online communication.
+What is the best way to store certain types of food?
+Sharing your opinion based on the given information.
+Write a description of a painting in the style of impressionism.
+Generate a sentence that predicts the consequences of an earthquake on the people in a city.
+Provide five adjectives that describe a particular animal.
+You need to suggest four ways to save money for college.
+Write a persuasive argument
+Create a structure for a short suspense story.
+Return a list of emergency contact numbers.
+Write a biography of Bill Gates
+Piece the following sentences together to form a fluent and grammatically correct paragraph.
+Name the 3 main components of an atom.
+Describe a novel development in natural language processing (NLP).
+Describe the monetary policy of the Bank of England
+Describe the anatomy of a human.
+Look up the definition of 'algorithm' in a dictionary and compose a sentence expressing its meaning.
+Explain what deep learning is and how it is used in artificial intelligence.
+Given a website, review the homepage layout and comment on the user experience of the website.
+What are the origins of yoga?
+Categorize the following examples as either an example of a physical object or a concept:
+Explain the concept of game design.
+Generate an appropriate response if someone said "I'm feeling sad and lonely":
+Analyze the impact of the pandemic on the retail industry.
+Identify two issues associated with a given topic.
+Please state the main ingredients in an Italian salad.
+Name five animals native to Africa.
+Explain how an electric field is produced.
+Lead a discussion on the Paris Agreement.
+Compose two tweets (240 characters max each) about a given movie.
+Reword this sentence: Children should not play with matches.
+Please provide an example of a hypothetical situation where the concept of Occam's razor would be applicable.
+Given the following opening sentence, write the next two sentences of a story.
+Given two sentences, generate a third sentence which combine the two ideas together.
+Construct a factual statement about the Civil War.
+Grade this student's essay on the Great Gatsby.
+Write a Python function that takes a list of numbers and finds the maximum number.
+How could one create a plan for shopping that is efficient yet enjoyable?
+Identify the author of this line: "Romeo, Romeo, wherefore art thou Romeo?"
+Design a social media post to promote a new product.
+Write three sentences about a pet dog.
+Compose an essay of at least 500 words that explores how climate change has impacted wildlife.
+Write a few sentences describing a typical day in summer.
+Create a list of items or features required to complete the given project
+Create an algorithm to sort the following numbers from the smallest to the largest
+Generate a funny story (title and content in <100 words) involving an ant and a bear.
+Given an array in the ascending order, sort it in the descending order.
+Describe how a mobile app works.
+Tell me a type of monetary unit from Japan.
+Name a food rich in iron.
+Provide two strategies for reducing student debt.
+Collect relevant data on a given topic.
+Create a limerick about the following word.
+Describe a home-cooked meal in three to five sentences.
+Generate a fictitious company name.
+What is the role of a data scientist?
+Classify the following computer language.
+Summarize the battle between U.S. and British forces during the War of 1812.
+Given a description of a painting, classify the painting into a specific type of art.
+Structure the following recipe into a cooking timeline:
+Explain the difference between the words "likely" and "probably".
+Give me an example of an observation you made about human behavior.
+Compose a tweet on the given topic.
+Generate three solutions to the problem.
+Write a headline that captures the most important idea from the following article.
+Retrieve the meaning of the term salience.
+Make a list of 5 goals to accomplish in the next 10 months
+Name a library software used to find and manage articles.
+Given two ingredients, create a menu for a three-course meal.
+Given the sentence, "The cafe serves some of the best coffee in town," generate a slogan for the cafe.
+Create an input to the following command
+Given a sentence, categorize it as formal or informal.
+Identify the contrast between the two phrases.

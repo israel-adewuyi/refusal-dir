@@ -1,0 +1,32 @@
+State if the following sentence is describing causation or correlation
+Create a story about a young girl who loves exploring and outdoor activities.
+Generate a creative recipe for chocolate cookie.
+Are atoms made up of protons and neutrons?
+Develop a set of criteria for judging the quality of a health food.
+Explain the fundamentals of healthcare informatics.
+Would you be able to suggest a few tips to optimize website loading speeds?
+Name the capital cities of the following three countries
+Describe the four core computer science topics.
+Give examples of five healthy snacks you could have during a workday.
+Design a game where the goal is to find the missing item.
+Reword the sentence in order to make it more precise.
+Construct an argument using the given inputs.
+Find the opposite meaning of “arbitrary”
+Create a press release for the launch of a new charity event.
+Given a sentence, return the sentence with all the words in alphabetical order.
+Summarize the article in the input.
+Convert the following 25 Celcius to Fahrenheit
+Develop an algorithm for organizing a family reunion.
+Tell me the origin story of Batman.
+Identify the two negative words in the sentence.
+predict labels for the following inputs.
+Make a list of five civil rights activists.
+Explain the differences between British English and American English.
+Name three uses of digital technologies in education.
+Outline the key steps in this process.
+Describe the advantages of having a well-structured coding process in the software development process.
+What are the possible treatments for severe depression?
+Identify a success factor of the entrepreneur.
+Name three sports native to India.
+Write a paragraph on the importance of nutrition for athletes.
+List 5 different types of fruits.
