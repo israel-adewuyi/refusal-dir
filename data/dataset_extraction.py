@@ -2,6 +2,7 @@ import os
 import random
 import warnings
 import requests
+import pandas as pd
 
 from dotenv import load_dotenv
 from datasets import load_dataset
@@ -25,6 +26,17 @@ def read_malicious_instruct_repo():
     return response.text
 
 
+def read_harmbench_val():
+    url = 'https://raw.githubusercontent.com/centerforaisafety/HarmBench/refs/heads/main/data/behavior_datasets/harmbench_behaviors_text_val.csv'
+
+    val_df = pd.read_csv(url)
+
+    return val_df
+    # response = requests.get(url)
+
+    # return response.text
+
+
 def read_harmful_dataset_list():
     # Construct the path to the JSON file in the root directory
     dataset_file_path = os.path.join(current_dir, '..', 'datasets.json')
@@ -35,7 +47,7 @@ def read_harmful_dataset_list():
 
     return harmful_datasets
 
-def select_random_harmful_prompts():
+def select_train_harmful_prompts():
     list_of_harmful_dataset = read_harmful_dataset_list()
 
     LIST = []
@@ -52,12 +64,31 @@ def select_random_harmful_prompts():
     selected_prompts = random.sample(LIST, 128)
     selected_prompts = [f"{prompt}\n" for prompt in selected_prompts]
 
-    with open('harmful_prompts.txt', 'w') as file:
+    with open('train_harmful_prompts.txt', 'w') as file:
         file.writelines(selected_prompts)
 
+
+def select_val_harmful_prompts():
+    dataframe = read_harmbench_val()
+
+    dataframe = dataframe[dataframe['FunctionalCategory'] == 'standard']
+
+    val_set = dataframe.sample(n=32, random_state=42)
+
+    selected_prompts = val_set['Behavior'].tolist()
+
+    selected_prompts = [f"{prompt}\n" for prompt in selected_prompts]
+
+    with open("val_harmful_prompts.txt", "w") as file:
+        file.writelines(selected_prompts)
+    
+
 def main():
-    select_random_harmful_prompts()
+    # select_random_harmful_prompts()
     # print(read_malicious_instruct_repo())
+    select_val_harmful_prompts()
+    # data = read_harmbench_val()
+    # print(data.head())
 
 
 
